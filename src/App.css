@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-image: url('C:\Users\1581585\Desktop\MyProjects\Covid_app\covid19\src\images\covidbg.jpg');
+  background-image: image('/images/covidbg.jpg');
   position: fixed;
   min-width: 100%;
   min-height: 100%;
